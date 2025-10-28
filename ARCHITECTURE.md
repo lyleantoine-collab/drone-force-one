@@ -21,6 +21,6 @@
 - Push → truck triage dashboard; auto-queue med-pods or evac.
 
 Modular: swap ArduPilot → PX4 by changing firmware path. 
-> Diagram pending (draw.io or whiteboard).
+> [Scouts x7] [F-350 Truck]
 
 Pull requests welcome.
