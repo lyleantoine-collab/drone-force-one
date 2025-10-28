@@ -1,17 +1,9 @@
 Drone Force One 
-AI-coordinated emergency drone swarm for search, 
-rescue, 
-and rapid supply drops in comms-dead zones. 
-
-Core idea: 
-A backpack-launched team of small drones (up to nine) deploys from first responders. 
-One carries thermals to spot survivors, 
-one relays Starlink signal back to base, 
-the rest map and expand coverage in spirals. 
-When bigger support arrives (e.g., modified F-350), 
-it restocks and reinforces the swarm. 
-
-Future: 
-Crowd-sourced participation from optional consumer units (like pet drones) during disasters. 
-Open source. 
-Help build it.
+AI-coordinated emergency drone swarm for search, rescue, and rapid supply drops in comms-dead zones. 
+- Backpack-launchable: up to 9 modular drones
+- One thermal scout, one signal repeater (Starlink uplink), rest for spiral-mapping and coverage
+- AI handles flight paths, prioritization, and med-pod drops
+- Reinforced by F-350 utility truck for resupply and expansion
+- Future: consumer drones (e.g., pet monitors) optionally join the swarm Hardened sat-link via my SatShield repo (anti-jam satellite relay).
+Quantum-resistant comms via Kyber.
+Open source-help build it.
