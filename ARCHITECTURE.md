@@ -5,7 +5,8 @@
 - Backpack opens → drones launch in sequence (thermal lead, relay, scouts).
 - Role assigned at boot via hull QR; AI confirms availability.
 - Thermal scout scans 120° cone, streams heat-map tiles immediately.
-- Relay climbs to 50 m, locks sat uplink, bridges to truck/base.
+- Relay climbs to 50 m, locks sat uplink, bridges to truck/base (The Hive).
+- From the Hive: med-delivery drones launch
 
 ## 2. Communication Mesh 
 
